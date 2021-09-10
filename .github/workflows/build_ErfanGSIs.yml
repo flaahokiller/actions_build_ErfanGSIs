@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://server.midonasr.workers.dev/ColtOS-v7.1-Heineken-ysl-20210410-Unofficial.zip
-  ROM_NAME: ColtOS
+  ROM_URL:  https://dropmirror.bahacec.workers.dev/0:/CY_pine-11.0-20210909-1316-.zip
+  ROM_NAME: CY_pine-11.0-20210909-1316-
   TZ: Asia/kolkata
 
 jobs:
